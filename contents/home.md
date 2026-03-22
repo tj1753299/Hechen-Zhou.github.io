@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I’m Hechen Zhou, currently a PhD student at Tongji University, supervised by Prof. Xiaoqiang Gu. My research interest lies in Scalable Graph Algorithms and Graph Neural Networks, particularly Personalized PageRank (PPR) related topics.
 
 #### Email  
 <code>XX@XX.XX</code>  
